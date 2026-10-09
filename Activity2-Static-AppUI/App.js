@@ -18,7 +18,7 @@ export default function App() {
         <View style={styles.header}>
           <View>
             <Text style={styles.title}>Dashboard</Text>
-            <Text style={styles.subtitle}>Welcome back, Mr. Raven</Text>
+            <Text style={styles.subtitle}>Welcome back, Mr. Ravens</Text>
           </View>
 
           <View style={styles.profile}>
@@ -65,7 +65,7 @@ export default function App() {
             <View>
               <Text style={styles.orderName}>Order #1001</Text>
               <Text style={styles.orderDetails}>
-                Wireless Headphones
+                 Headphones
               </Text>
             </View>
 
