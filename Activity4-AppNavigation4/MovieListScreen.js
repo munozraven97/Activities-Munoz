@@ -5,7 +5,7 @@ import styles from './globalStyles';
 const movies = [
   {
     id: 1,
-    title: 'Interstellar',
+    title: 'The Scientist',
     year: 2014,
     genre: 'Science Fiction',
     rating: '8.7/10',
