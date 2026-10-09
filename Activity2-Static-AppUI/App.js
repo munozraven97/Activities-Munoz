@@ -76,7 +76,7 @@ export default function App() {
             <View>
               <Text style={styles.orderName}>Order #1002</Text>
               <Text style={styles.orderDetails}>
-                Classic Sneakers
+                Sneakers
               </Text>
             </View>
 
@@ -87,7 +87,7 @@ export default function App() {
             <View>
               <Text style={styles.orderName}>Order #1003</Text>
               <Text style={styles.orderDetails}>
-                Everyday Backpack
+                Backpack
               </Text>
             </View>
 
