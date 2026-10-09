@@ -23,7 +23,7 @@ const movies = [
   },
   {
     id: 3,
-    title: 'The Dark Knight',
+    title: 'The Dark Lord',
     year: 2008,
     genre: 'Action',
     rating: '9.0/10',
