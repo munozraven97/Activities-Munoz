@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
   },
 
   title: {
-    fontSize: 28,
+    fontSize: 27,
     fontWeight: "bold",
     color: "#222",
     marginBottom: 5,
@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
   },
 
   addButton: {
-    backgroundColor: "#333",
+    backgroundColor: "#d36c6c",
     paddingHorizontal: 20,
     justifyContent: "center",
     alignItems: "center",
@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
   },
 
   addButtonText: {
-    color: "#fff",
+    color: "#996161",
     fontSize: 16,
     fontWeight: "bold",
   },
