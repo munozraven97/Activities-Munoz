@@ -9,7 +9,7 @@ export default function HomeScreen({ navigation }) {
       <Text style={styles.title}>🎬 Movie Explorer</Text>
 
       <Text style={styles.subtitle}>
-        Discover movies and explore their details.
+        Discover movies and explore their details and Also Enjoy.
       </Text>
 
       <TouchableOpacity
